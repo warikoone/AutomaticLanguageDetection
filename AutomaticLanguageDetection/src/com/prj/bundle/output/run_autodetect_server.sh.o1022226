@@ -1,0 +1,3 @@
+/tmp/1022226.1.gpu.q:/usr/local/bin:/bin:/usr/bin
+init input processor
+{'danish': 0, 'dutch': 1, 'english': 2, 'french': 3, 'german': 4, 'hebrew': 5, 'hindi': 6, 'irishgaelic': 7, 'italian': 8, 'japanese': 9, 'portugeese': 10, 'russian': 11, 'slovak': 12, 'spanish': 13}
